@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://i.imgflip.com/9f00za.gif"  />
 
 ###
@@ -60,6 +58,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h1 align="left">Наша Адміністрація</h1>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=madparrot69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9f03jl.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaondarech726&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img align="right" height="140" src="https://i.imgflip.com/9f03cz.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkqupy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9f03n1.gif"  />
 </div>
 
 ###
