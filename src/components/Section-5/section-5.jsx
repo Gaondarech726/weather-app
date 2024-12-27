@@ -21,6 +21,7 @@ import KalinichenkoImg from './images/MariaKalinichenko.jpg';
 // import BerestenImg from './images/DimaBeresten.png';
 
 const Section5 = () => {
+
   return (
     <Swiper
       // install Swiper modules
@@ -93,6 +94,6 @@ const Section5 = () => {
       </div>
       ...
     </Swiper>
-  );
+  )
 };
 export default Section5;
