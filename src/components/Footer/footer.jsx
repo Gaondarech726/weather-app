@@ -6,7 +6,7 @@ import Whatsapp from './whatsapp.svg';
 const Footer = () => {
   return (
     <div className="footer-div-main">
-      <img src={LogotypeFooter} alt="" />
+      <img src={LogotypeFooter} alt="" className="footer-logotype" />
       <div className="footer-div-text">
         <h4>Address</h4>
         <p>Svobody str. 35</p>
@@ -15,9 +15,11 @@ const Footer = () => {
       </div>
       <div className="footer-contactUs">
         <h3>Contact us</h3>
-        <img src={Instagram} alt="" />
-        <img src={Facebook} alt="" />
-        <img src={Whatsapp} alt="" />
+        <div className='social-media-footer'>
+          <img src={Instagram} alt="" />
+          <img src={Facebook} alt="" />
+          <img src={Whatsapp} alt="" />
+        </div>
       </div>
     </div>
   );
