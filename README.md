@@ -68,7 +68,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=madparrot69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img align="right" height="140" src="https://i.imgflip.com/9fkk6i.gif"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9f03jl.gif"  />
 </div>
 
 ###
@@ -91,7 +91,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dmitryberesten&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img align="right" height="140" src="https://i.imgflip.com/9f03n1.gif"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9fkk6i.gif"  />
 </div>
 
 ###
