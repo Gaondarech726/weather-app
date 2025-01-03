@@ -84,7 +84,7 @@ const Section5 = () => {
       <Swiper
         modules={[A11y, Autoplay]}
         slidesPerView={3}
-        spaceBetween={0}
+        spaceBetween={50}
         centeredSlides={true}
         loop={true}
         autoplay={{
