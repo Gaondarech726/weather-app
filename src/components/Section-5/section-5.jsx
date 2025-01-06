@@ -11,9 +11,9 @@ import 'swiper/css/pagination';
 
 import './section-5.scss';
 
-import BerestenImg from './images/DimaBeresten.png';
-import HoncharenkoImg from './images/AntonHoncharenko.png';
-import StepenkoImg from './images/KhrystynaStepenko.png';
+import BerestenImg from './images/DimaBeresten.jpg';
+import HoncharenkoImg from './images/AntonHoncharenko.jpg';
+import StepenkoImg from './images/KhrystynaStepenko.jpg';
 import KalinichenkoImg from './images/MariaKalinichenko.jpg';
 import IvahImg from './images/IvahSvyatoslav.jpg';
 import TerletskyyImg from './images/DmytroTerletskyy.jpg';
