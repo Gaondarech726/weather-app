@@ -21,6 +21,7 @@ import KoruzhynetsImg from './images/KoruzhynetsAnna.jpg';
 import MelnykImg from './images/MaksimMelnyk.jpg';
 
 const Section5 = () => {
+
   return (
     <Swiper
       // install Swiper modules
@@ -92,6 +93,6 @@ const Section5 = () => {
       </div>
       ...
     </Swiper>
-  );
+  )
 };
 export default Section5;
