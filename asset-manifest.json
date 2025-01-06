@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/weather-app/static/css/main.7fc354f5.css",
-    "main.js": "/weather-app/static/js/main.fe7c524c.js",
+    "main.js": "/weather-app/static/js/main.b8ce2b47.js",
     "static/media/3.svg": "/weather-app/static/media/3.4e0ee8efe911f35c531e3dfcc6e2fb00.svg",
     "static/media/1.svg": "/weather-app/static/media/1.a736e7ff5ff2500afd5d831559d0b42b.svg",
     "static/media/2.svg": "/weather-app/static/media/2.e817a4f5b0eb304bf011eba057358cc5.svg",
     "static/media/4.svg": "/weather-app/static/media/4.b2e971cd0995c7950d521ad2b9d5f628.svg",
     "static/media/5.svg": "/weather-app/static/media/5.7272ba8be2fb4c31941a202a03819080.svg",
+    "static/media/MaksimMelnyk.jpg": "/weather-app/static/media/MaksimMelnyk.2c108e76b8d75d015688.jpg",
+    "static/media/IvahSvyatoslav.jpg": "/weather-app/static/media/IvahSvyatoslav.fb2d90b825dadfa85ead.jpg",
+    "static/media/KoruzhynetsAnna.jpg": "/weather-app/static/media/KoruzhynetsAnna.fee98dce2df8dbe5fccd.jpg",
     "static/media/KhrystynaStepenko.png": "/weather-app/static/media/KhrystynaStepenko.da115fa29db5ccbbc1c7.png",
     "static/media/AntonHoncharenko.png": "/weather-app/static/media/AntonHoncharenko.359c2ee80aa4e2c9b2a0.png",
     "static/media/DimaBeresten.png": "/weather-app/static/media/DimaBeresten.6fbe158a974f9a1baa34.png",
+    "static/media/DmytroTerletskyy.jpg": "/weather-app/static/media/DmytroTerletskyy.5dcb77240a83c488d4bd.jpg",
     "static/media/whatsapp.svg": "/weather-app/static/media/whatsapp.320aefaad0632cc0e456929a71f4124b.svg",
     "static/media/MariaKalinichenko.jpg": "/weather-app/static/media/MariaKalinichenko.d78909740a5a09c64cbf.jpg",
     "static/media/instagram.svg": "/weather-app/static/media/instagram.e596203158ec42e901c4ef82aa002296.svg",
@@ -17,10 +21,10 @@
     "static/media/LogotypeFooter.svg": "/weather-app/static/media/LogotypeFooter.d74856df344e25be1a50eead5c1508db.svg",
     "index.html": "/weather-app/index.html",
     "main.7fc354f5.css.map": "/weather-app/static/css/main.7fc354f5.css.map",
-    "main.fe7c524c.js.map": "/weather-app/static/js/main.fe7c524c.js.map"
+    "main.b8ce2b47.js.map": "/weather-app/static/js/main.b8ce2b47.js.map"
   },
   "entrypoints": [
     "static/css/main.7fc354f5.css",
-    "static/js/main.fe7c524c.js"
+    "static/js/main.b8ce2b47.js"
   ]
 }
