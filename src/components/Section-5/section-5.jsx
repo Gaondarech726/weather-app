@@ -15,10 +15,10 @@ import BerestenImg from './images/DimaBeresten.png';
 import HoncharenkoImg from './images/AntonHoncharenko.png';
 import StepenkoImg from './images/KhrystynaStepenko.png';
 import KalinichenkoImg from './images/MariaKalinichenko.jpg';
-// import BerestenImg from './images/DimaBeresten.png';
-// import BerestenImg from './images/DimaBeresten.png';
-// import BerestenImg from './images/DimaBeresten.png';
-// import BerestenImg from './images/DimaBeresten.png';
+import IvahImg from './images/IvahSvyatoslav.jpg';
+import TerletskyyImg from './images/DmytroTerletskyy.jpg';
+import KoruzhynetsImg from './images/KoruzhynetsAnna.jpg';
+import MelnykImg from './images/MaksimMelnyk.jpg';
 
 const Section5 = () => {
 
@@ -62,33 +62,32 @@ const Section5 = () => {
             <p>Christmas DJ, Frontend Developer</p>
             <p>Maria Kalinichenko</p>
           </div>
-        </SwiperSlide>
-        <SwiperSlide>
+        </SwiperSlide><SwiperSlide>
           <div className="slide">
-            <img className="BerestenImg" src={BerestenImg} alt="" />
-            <p>Project Manager</p>
-            <p>Dima Beresten</p>
+            <img src={TerletskyyImg} alt="" />
+            <p>Frontend Developer</p>
+            <p>Dmytro Terletskyy</p>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className="slide">
-            <img src={HoncharenkoImg} alt="" />
-            <p>Tech Lead, Frontend Developer</p>
-            <p>Anton Honcharenko</p>
+            <img src={KoruzhynetsImg} alt="" />
+            <p>Frontend Developer</p>
+            <p>Anna Koruzhynets</p>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className="slide">
-            <img src={StepenkoImg} alt="" />
-            <p>Scrum Master, Frontend Developer</p>
-            <p>Khrystyna Stepenko</p>
+            <img className="IvahImg" src={IvahImg} alt="" />
+            <p>Frontend Developer</p>
+            <p>Svyatoslav Ivah</p>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className="slide">
-            <img src={KalinichenkoImg} alt="" />
-            <p>Christmas DJ, Frontend Developer</p>
-            <p>Maria Kalinichenko</p>
+            <img src={MelnykImg} alt="" />
+            <p>Frontend Developer</p>
+            <p>Maksim Melnyk</p>
           </div>
         </SwiperSlide>
       </div>
