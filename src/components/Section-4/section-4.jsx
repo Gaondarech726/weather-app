@@ -6,11 +6,11 @@ import 'swiper/css';
 
 import './section-4.scss';
 
-import One from './images/1.svg';
-import Two from './images/2.svg';
-import Three from './images/3.svg';
-import Four from './images/4.svg';
-import Five from './images/5.svg';
+import One from './images/1.jpg';
+import Two from './images/2.jpg';
+import Three from './images/3.jpg';
+import Four from './images/4.jpg';
+import Five from './images/5.jpg';
 
 const Section5 = () => {
   return (
