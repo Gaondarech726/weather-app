@@ -18,6 +18,10 @@
 
   border-bottom: 1px solid black;
 
+  .header-menu {
+    display: none;
+  }
+
   .header-logo_nav {
     width: 650px;
     height: 100%;
@@ -26,7 +30,7 @@
     align-items: center;
 
     .header-logo {
-      margin-left: 10vw;
+      margin-left: 5vw;
       width: 82px;
       height: 56px;
     }
@@ -60,7 +64,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-right: 10vw;
+    margin-right: 5vw;
 
     .header-signUp_btn {
       padding: 10px 20px;
@@ -99,7 +103,7 @@
         margin-left: 6.83vw;
 
         .header-nav_link {
-          font-size: 10px;
+          font-size: 10px !important;
         }
       }
     }
@@ -116,6 +120,38 @@
         width: 40px;
         height: 40px;
       }
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .header-logo_nav {
+    width: 300px !important;
+  }
+  .header-nav {
+    width: 180px !important;
+  }
+}
+
+@media (max-width: 490px) {
+  .header-user {
+    width: 120px !important;
+  }
+}
+
+@media (max-width: 450px) {
+  .header {
+    .header-menu {
+      display: block;
+
+      margin-right: 50px;
+    }
+
+    .header-nav {
+      display: none !important;
+    }
+    .header-user {
+      display: none !important;
     }
   }
 }

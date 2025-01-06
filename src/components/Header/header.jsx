@@ -33,6 +33,8 @@ const Header = () => {
         <button className="header-signUp_btn">Sign Up</button>
         <img src={user} alt="User" className="header-user_img" />
       </div>
+
+      <menu className="header-menu">--</menu>
     </header>
   );
 };
