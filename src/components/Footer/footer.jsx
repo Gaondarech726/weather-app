@@ -15,10 +15,20 @@ const Footer = () => {
       </div>
       <div className="footer-contactUs">
         <h3>Contact us</h3>
-        <div className='social-media-footer'>
-          <img src={Instagram} alt="" />
+        <div className="social-media-footer">
+          <a href="https://www.instagram.com/">
+           
+            <img src={Instagram} alt="" />
+          </a>
+
+     
+          <a href="https://www.facebook.com/?locale=uk_UA">
           <img src={Facebook} alt="" />
+          </a>
+
+          <a href="https://www.whatsapp.com/download?lang=uk_UA">
           <img src={Whatsapp} alt="" />
+          </a>
         </div>
       </div>
     </div>

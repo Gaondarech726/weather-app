@@ -37,6 +37,3 @@ const Header = () => {
       <menu className="header-menu">--</menu>
     </header>
   );
-};
-
-export default Header;
