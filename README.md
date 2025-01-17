@@ -1,112 +1,97 @@
-# React homework template
+<h1 align="left">Weather-app</h1>
 
-Цей проект був створений за допомогою
-[Create React App](https://github.com/facebook/create-react-app). Для знайомства
-і налаштування додаткових можливостей
-[звернися до документації](https://facebook.github.io/create-react-app/docs/getting-started).
+###
 
-## Створення репозиторію за шаблоном
+<p align="left">Це наш проект з показу погоди, який допомагає користувачам отримувати актуальну інформацію про погодні умови в різних локаціях. Додаток створений з використанням сучасних підходів до розробки, забезпечуючи естетичний вигляд і зручність у користуванні.</p>
 
-Використовуй цей репозиторій організації GoIT як шаблон для створення репозиторію
-свого проєкта. Для цього натисни на кнопку `«Use this template»` і вибери опцію
-`«Create a new repository»`, як показано на зображенні.
+###
 
-![Creating repo from a template step 1](./assets/template-step-1.png)
+<h2 align="left">Особливості верстки</h2>
 
-На наступному кроці відкриється сторінка створення нового репозиторію. Заповни поле
-його імені, переконайся що репозиторій публічний, після чого натисни кнопку
-`«Create repository from template»`.
+###
 
-![Creating repo from a template step 2](./assets/template-step-2.png)
+<img align="right" height="140" src="https://i.imgflip.com/9f00za.gif"  />
 
-Після того як репозиторій буде створено, необхідно перейти в налаштування
-створеного репозиторію на вкладку `Settings` > `Actions` > `General` як
-показано на зображенні.
+###
 
-![Settings GitHub Actions permissions step 1](./assets/gh-actions-perm-1.png)
+<h4 align="left">• Адаптивність: Макет повністю адаптивний і виглядає добре на будь-яких пристроях, від мобільних телефонів до великих моніторів.<br>• Семантичність: Використані семантичні теги HTML для кращої читабельності коду і SEO-оптимізації.<br>• Ієрархічність блоків: Структура включає логічні секції: панель із заголовком, картки погоди, розширена інформація, графіки та блоки із зображеннями.</h4>
 
-Проскроливши сторінку до самого кінця, у секції `«Workflow permissions»` вибери
-опцію `«Read and write permissions»` і постав галочку в чекбоксі. Це
-необхідно для автоматизації процесу деплою проєкту.
+###
 
-![Settings GitHub Actions permissions step 2](./assets/gh-actions-perm-2.png)
+<h2 align="left">Особливості стилізації</h2>
 
-Тепер у тебе є особистий репозиторій проекту, зі структурою файлів і папок
-репозиторію-шаблону. Далі працюй із ним як із будь-яким іншим особистим репозиторієм,
-клонуй його собі на комп'ютер, пиши код, роби комміти і відправляй їх на
-GitHub.
+###
 
-## Підготовка до роботи
+<h4 align="left">• Кольорова гама: Темний фон для заголовка, світлий фон для інших секцій, сучасна палітра кольорів.<br>• Шрифти: Використані сучасні шрифти для покращення читабельності.<br>• Іконки: SVG-формат для чіткості зображень незалежно від роздільної здатності.<br>• Картки: Закруглені кути, тіні та hover-ефекти для інтерактивності.</h4>
 
-1. Переконайся що на комп'ютері встановлено LTS-версія Node.js.
-   [Завантаж і встанови](https://nodejs.org/en/) її якщо необхідно.
-2. Встанови базові залежності проєкту командою `npm install`.
-3. Запусти режим розробки, виконавши команду `npm start`.
-4. Перейди в браузері за адресою [http://localhost:3000](http://localhost:3000).
-   Ця сторінка буде автоматично перезавантажуватися після збереження змін у файлах проєкту.
+###
 
-## Деплой
+<h2 align="left">Деталі анімацій</h2>
 
-Продакшн версія проєкту буде автоматично проходити лінтинг, збиратися і
-деплоїтися на GitHub Pages, у гілку `gh-pages`, щоразу, коли оновлюється
-гілка `main`. Наприклад, після прямого пушу або прийнятого пул-реквесту. Для цього
-необхідно у файлі `package.json` відредагувати поле `homepage`, замінивши
-`your_username` і `your_repo_name` на свої, і відправити зміни на GitHub.
+###
 
-```json
-"homepage": "https://your_username.github.io/your_repo_name/"
-```
+<h4 align="left">• Плавний перехід кольорів: Використовується transition: all 0.3s ease-in-out для кнопок і карток.<br>• Анімація графіків: Лінії на графіку температури з'являються поступово при завантаженні сторінки.<br>• Інтерактивні елементи: Анімація при натисканні на іконки, такі як зміна кольору іконки серця.<br>• Прелоадер: Анімація завантаження перед відображенням контенту.</h4>
 
-Далі необхідно зайти в налаштування GitHub-репозиторію (`Settings` > `Pages`) і
-виставити роздачу продакшн-версії файлів із папки `/root` гілки `gh-pages`, якщо
-це не було зроблено автоматично.
+###
 
-![GitHub Pages settings](./assets/repo-settings.png)
+<h1 align="left">Ми використовуємо</h1>
 
-### Статус деплоя
+###
 
-Статус деплою крайнього коміту відображається іконкою біля його ідентифікатора.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-- **Жовтий колір** - виконується збірка і деплой проєкту.
-- **Зелений колір** - деплой завершився успішно.
-- **Червоний колір** - під час лінтингу, сборки або деплою сталася помилка.
+###
 
-Детальнішу інформацію про статус можна подивитися, клікнувши на іконку, і
-у вікні, що випадає, перейти за посиланням `Details`.
+<h1 align="left">Наша Адміністрація</h1>
 
-![Deployment status](./assets/deploy-status.png)
+###
 
-### Жива сторінка
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=madparrot69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9f03jl.gif"  />
+</div>
 
-Через якийсь час, зазвичай кілька хвилин, живу сторінку можна буде подивитися
-за адресою, вказаною у відредагованій властивості `homepage`. Наприклад, ось
-посилання на живу версію для цього репозиторію
-[https://goitacademy.github.io/react-homework-template](https://goitacademy.github.io/react-homework-template).
+###
 
-Якщо відкривається порожня сторінка, переконайся, що у вкладці `Console` немає помилок
-пов'язаних із неправильними шляхами до CSS і JS файлів проєкту (**404**). Швидше 
-за все у тебе неправильне значення властивості `homepage` у файлі `package.json`.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaondarech726&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img align="right" height="140" src="https://i.imgflip.com/9f03cz.gif"  />
+</div>
 
-### Маршрутизація
+###
 
-Якщо додаток використовує бібліотеку `react-router-dom` для маршрутизації,
-необхідно додатково налаштувати компонент `<BrowserRouter>`, передавши у пропе
-`basename` точну назву твого репозиторію. Слеш на початку рядка обов'язковий.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkqupy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9f03n1.gif"  />
+</div>
 
-```jsx
-<BrowserRouter basename="/your_repo_name">
-  <App />
-</BrowserRouter>
-```
+###
 
-## Як це працює
+<h1 align="left">Наш Керівник</h1>
 
-![How it works](./assets/how-it-works.png)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmitryberesten&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img align="right" height="140" src="https://i.imgflip.com/9fkk6i.gif"  />
+</div>
 
-1. Після кожного пушу в гілку `main` GitHub-репозиторія, запускається спеціальний
-   скрипт (GitHub Action) з файла `.github/workflows/deploy.yml`.
-2. Усі файли репозиторію копіюються на сервер, де проект ініціалізується і
-   проходить лінтинг і збірку перед деплоєм.
-3. Якщо всі кроки пройшли успішно, зібрана продакшн-версія файлів проєкту
-   відправляється в гілку `gh-pages`. В іншому випадку, в лозі виконання
-   скрипта буде вказано в чому проблема.
+###
