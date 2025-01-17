@@ -62,7 +62,8 @@ const Section5 = () => {
             <p>Christmas DJ, Frontend Developer</p>
             <p>Maria Kalinichenko</p>
           </div>
-        </SwiperSlide><SwiperSlide>
+        </SwiperSlide>
+        <SwiperSlide>
           <div className="slide">
             <img src={TerletskyyImg} alt="" />
             <p>Frontend Developer</p>
@@ -93,6 +94,6 @@ const Section5 = () => {
       </div>
       ...
     </Swiper>
-  )
+  );
 };
 export default Section5;
